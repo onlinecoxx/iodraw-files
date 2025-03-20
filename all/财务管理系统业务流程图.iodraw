@@ -275,7 +275,7 @@
         <mxCell id="VcAyvz65EBczviO2-DCC-2" value="分管领导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="10" y="780" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VcAyvz65EBczviO2-DCC-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;申请阶段&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
+        <mxCell id="VcAyvz65EBczviO2-DCC-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;受理阶段&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1500" y="18" width="170" height="35" as="geometry" />
         </mxCell>
       </root>
