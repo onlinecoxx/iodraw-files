@@ -28,20 +28,11 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-540" value="审批人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="10" y="180" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-541" value="部门经办人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="10" y="310" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-542" value="部门负责人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="10" y="530" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-543" value="系统管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="10" y="930" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-544" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;strokeWidth=1;fontSize=26;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="300" as="sourcePoint" />
-            <mxPoint x="1190" y="300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-577" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;fontSize=26;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="1010" width="1370" height="50" as="geometry" />
