@@ -272,6 +272,9 @@
             <mxPoint x="1160" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VcAyvz65EBczviO2-DCC-2" value="部门分管领导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="10" y="780" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
