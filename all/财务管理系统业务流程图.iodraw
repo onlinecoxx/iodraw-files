@@ -28,7 +28,7 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-540" value="系统管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="10" y="110" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-541" value="出纳/会计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-541" value="部门经办人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="10" y="310" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-542" value="财务主管" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
