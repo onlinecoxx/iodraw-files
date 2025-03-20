@@ -116,7 +116,7 @@
           <mxGeometry width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-24" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;查看待审批消息&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-22">
-          <mxGeometry x="10" y="12.5" width="220" height="47.5" as="geometry" />
+          <mxGeometry x="10" y="11.25" width="220" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
