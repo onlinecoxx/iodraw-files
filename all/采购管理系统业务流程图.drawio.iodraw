@@ -26,9 +26,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-540" value="审批人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="10" y="180" width="150" height="40" as="geometry" />
+          <mxGeometry x="10" y="290" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-542" value="部门负责人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-542" value="CRM系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="10" y="530" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-543" value="系统管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
@@ -66,8 +66,8 @@
         </mxCell>
         <mxCell id="VcAyvz65EBczviO2-DCC-1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;strokeWidth=1;fontSize=26;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="697" as="sourcePoint" />
-            <mxPoint x="1160" y="700" as="targetPoint" />
+            <mxPoint x="10" y="650" as="sourcePoint" />
+            <mxPoint x="1170" y="653" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VcAyvz65EBczviO2-DCC-2" value="分管领导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
