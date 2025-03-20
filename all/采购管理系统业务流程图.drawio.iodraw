@@ -127,6 +127,14 @@
         <mxCell id="j7MQcQFt9lmip2wHWkhI-28" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;确认签字&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-26">
           <mxGeometry x="10" y="12.5" width="220" height="47.5" as="geometry" />
         </mxCell>
+        <mxCell id="j7MQcQFt9lmip2wHWkhI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7MQcQFt9lmip2wHWkhI-23" target="j7MQcQFt9lmip2wHWkhI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MQcQFt9lmip2wHWkhI-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j7MQcQFt9lmip2wHWkhI-31">
+          <mxGeometry x="-0.1763" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
