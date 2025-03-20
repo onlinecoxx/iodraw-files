@@ -86,12 +86,12 @@
           <mxGeometry x="7.916666666666666" y="12.5" width="174.16666666666666" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="232" y="700" width="240" height="70" as="geometry" />
+          <mxGeometry x="200" y="890" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-11" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=26;align=left;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-10">
           <mxGeometry width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="j7MQcQFt9lmip2wHWkhI-12" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;提交项目申请&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-10">
+        <mxCell id="j7MQcQFt9lmip2wHWkhI-12" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;启动流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-10">
           <mxGeometry x="10" y="12.5" width="220" height="47.5" as="geometry" />
         </mxCell>
       </root>
