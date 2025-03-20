@@ -969,7 +969,7 @@
         <mxCell id="-AA_b2LM2jQlDkAdNgFw-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-439" y="-943" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-AA_b2LM2jQlDkAdNgFw-33" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="-AA_b2LM2jQlDkAdNgFw-33" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-620" y="-943" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-AA_b2LM2jQlDkAdNgFw-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
@@ -977,6 +977,9 @@
         </mxCell>
         <mxCell id="-AA_b2LM2jQlDkAdNgFw-35" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-970" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-AA_b2LM2jQlDkAdNgFw-36" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-870" width="75" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
