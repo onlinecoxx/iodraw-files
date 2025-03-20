@@ -927,18 +927,6 @@
         <mxCell id="-AA_b2LM2jQlDkAdNgFw-12" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1430" y="-350" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-AA_b2LM2jQlDkAdNgFw-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1611" y="-350" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-AA_b2LM2jQlDkAdNgFw-14" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-350" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-AA_b2LM2jQlDkAdNgFw-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="-370" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-AA_b2LM2jQlDkAdNgFw-16" value="部署自动化" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;fontColor=#000000;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="996" y="-370" width="75" height="75" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
