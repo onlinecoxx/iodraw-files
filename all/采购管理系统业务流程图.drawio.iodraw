@@ -86,22 +86,22 @@
           <mxGeometry x="7.916666666666666" y="12.5" width="174.16666666666666" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="206" y="900" width="208" height="70" as="geometry" />
+          <mxGeometry x="230" y="920" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-11" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=26;align=left;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-10">
-          <mxGeometry width="208" height="70" as="geometry" />
+          <mxGeometry width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-12" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;启动流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-10">
-          <mxGeometry x="8.666666666666668" y="12.5" width="190.66666666666669" height="47.5" as="geometry" />
+          <mxGeometry x="6.833333333333334" y="10.714285714285714" width="150.33333333333334" height="40.714285714285715" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="730" width="210" height="70" as="geometry" />
+          <mxGeometry x="360" y="720" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-14" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=26;align=left;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-13">
-          <mxGeometry width="210" height="70" as="geometry" />
+          <mxGeometry width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-15" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;消息通知&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-13">
-          <mxGeometry x="8.750000000000002" y="12.5" width="192.50000000000003" height="47.5" as="geometry" />
+          <mxGeometry x="6.250000000000002" y="8.928571428571429" width="137.50000000000003" height="33.92857142857143" as="geometry" />
         </mxCell>
         <mxCell id="j7MQcQFt9lmip2wHWkhI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j7MQcQFt9lmip2wHWkhI-11" target="j7MQcQFt9lmip2wHWkhI-14">
           <mxGeometry relative="1" as="geometry" />
