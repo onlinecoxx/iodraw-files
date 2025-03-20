@@ -127,6 +127,9 @@
         <mxCell id="j7MQcQFt9lmip2wHWkhI-28" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;确认签字&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-26">
           <mxGeometry x="10" y="12.5" width="220" height="47.5" as="geometry" />
         </mxCell>
+        <mxCell id="j7MQcQFt9lmip2wHWkhI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7MQcQFt9lmip2wHWkhI-24" target="j7MQcQFt9lmip2wHWkhI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
