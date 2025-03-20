@@ -103,7 +103,7 @@
         <mxCell id="j7MQcQFt9lmip2wHWkhI-15" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;消息通知&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" vertex="1" parent="j7MQcQFt9lmip2wHWkhI-13">
           <mxGeometry x="7.083333333333335" y="12.5" width="155.83333333333337" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="j7MQcQFt9lmip2wHWkhI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7MQcQFt9lmip2wHWkhI-12" target="j7MQcQFt9lmip2wHWkhI-15">
+        <mxCell id="j7MQcQFt9lmip2wHWkhI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=1.246;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j7MQcQFt9lmip2wHWkhI-12" target="j7MQcQFt9lmip2wHWkhI-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
