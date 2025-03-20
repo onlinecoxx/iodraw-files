@@ -2,7 +2,9 @@
   <diagram id="y9BXn1g7WypDX2ktBCIV" name="第 1 页">
     <mxGraphModel dx="1420" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <UserObject label="" animation="show 5IQHUKzoOvSk5WSjrU4J-2 fade&#xa;wait 1000&#xa;show 5IQHUKzoOvSk5WSjrU4J-2&#xa;wait 1000&#xa;show 5IQHUKzoOvSk5WSjrU4J-2 fade&#xa;wait 1000&#xa;" id="0">
+          <mxCell />
+        </UserObject>
         <mxCell id="1" parent="0" />
         <mxCell id="5IQHUKzoOvSk5WSjrU4J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="680" height="490" as="geometry" />
