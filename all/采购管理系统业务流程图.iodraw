@@ -74,7 +74,7 @@
           <mxGeometry x="610" y="90" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-551" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;提交项目申请&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="290" y="100" width="220" height="40" as="geometry" />
+          <mxGeometry x="290" y="100" width="220" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-552" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;权限分配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="630" y="105" width="110" height="30" as="geometry" />
