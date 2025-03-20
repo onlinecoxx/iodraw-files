@@ -954,6 +954,9 @@
         <mxCell id="-AA_b2LM2jQlDkAdNgFw-27" value="Service C" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;dashed=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-500" y="-870.5" width="75" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-AA_b2LM2jQlDkAdNgFw-28" value="Service C" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;dashed=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-860" width="75" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
