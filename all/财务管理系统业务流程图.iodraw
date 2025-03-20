@@ -260,13 +260,11 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-594" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;财务管理系统业务流程图&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="510" y="908" width="370" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-595" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#6C8EBF;strokeWidth=4;fontFamily=Comic Sans MS;fontSize=26;" parent="1" source="HZyqP8lNtJwYMgKbey4X-596" edge="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-595" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#6C8EBF;strokeWidth=4;fontFamily=Comic Sans MS;fontSize=26;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1190" y="500" as="targetPoint" />
+            <mxPoint x="1200" y="492.57142857142844" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-596" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=1;fillColor=#6C8EBF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=26;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="465" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-597" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=1;fillColor=#6C8EBF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=26;align=left;rotation=180;" parent="1" vertex="1">
           <mxGeometry x="1140" y="440" width="70" height="100" as="geometry" />
@@ -285,15 +283,6 @@
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-601" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;fontFamily=Comic Sans MS;fontSize=26;align=left;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1305" y="550" width="185" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-602" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;进销存管理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="385" width="135" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-603" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;固定资产管理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="1313" y="478" width="167" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-604" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;工资管理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="1313" y="565" width="167" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
